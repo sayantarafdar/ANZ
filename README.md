@@ -1,8 +1,8 @@
-# ANZ Bank Analytics Challenge
+## ANZ Bank Analytics Challenge
 
 Project: Developed a machine learning solution for ANZ Bank to predict loan default risk using customer demographic and financial data, enabling improved profitability, reduced risk, and data-driven loan approval decisions. 
 
-## Responsibilities:
+### Responsibilities:
 
 Conducted Exploratory Data Analysis (EDA) to uncover trends in income, credit score, and loan behavior <br>
 Cleaned and preprocessed data by handling missing values and encoding categorical variables <br>
