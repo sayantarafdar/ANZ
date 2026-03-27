@@ -1,3 +1,6 @@
+![image alt](https://github.com/sayantarafdar/ANZ/blob/19c6d2878bd9084321cae37127ace111451a55a9/ANZ-watermark-image.webp)
+
+
 ## ANZ Bank Analytics Challenge
 
 Project: Developed a machine learning solution for ANZ Bank to predict loan default risk using customer demographic and financial data, enabling improved profitability, reduced risk, and data-driven loan approval decisions. 
